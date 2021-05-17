@@ -31,7 +31,7 @@ How to use:
 
 Install Ankidroid on android or Ankidesktop (https://ankiweb.net/about)
 
-Load hanzi_3000.apkg
+Load collections-hanzi package (Updating link)
 
 Enjoy! :))
 
