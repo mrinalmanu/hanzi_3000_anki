@@ -23,6 +23,7 @@ The examples were formatted and converted into a document and translated into go
 
 All information was combined into Anki Deck, and html processed.
 
-
-
+![Screenshot](front.png)
+![Screenshot](back_1.png)
+![Screenshot](back_2.png)
 
