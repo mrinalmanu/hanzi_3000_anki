@@ -27,3 +27,11 @@ All information was combined into Anki Deck, and html processed.
 ![Screenshot](back_1.png)
 ![Screenshot](back_2.png)
 
+How to use:
+
+Install Ankidroid on android or Ankidesktop (https://ankiweb.net/about)
+
+Load hanzi_3000.apkg
+
+Enjoy! :))
+
