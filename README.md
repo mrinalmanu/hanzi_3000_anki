@@ -31,7 +31,10 @@ How to use:
 
 Install Ankidroid on android or Ankidesktop (https://ankiweb.net/about)
 
-Load collections-hanzi package (Updating link)
+Load collections-hanzi package (https://disk.yandex.com/d/fQwss6UHf0nTvA)
+  ^
+  |
+  this link contains all the media files required for the deck + the deck
 
 Enjoy! :))
 
